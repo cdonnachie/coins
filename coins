@@ -17399,31 +17399,31 @@
     }
   },
   {
-  "coin": "RXD",
-  "name": "rxd",
-  "fname": "Radiant",
-  "rpcport": 7332,
+    "coin": "RXD",
+    "name": "rxd",
+    "fname": "Radiant",
+    "rpcport": 7332,
 
-  "pubtype": 0,
-  "p2shtype": 5,
-  "wiftype": 128,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
 
-  "txfee": 1000,
-  "segwit": false,
+    "txfee": 1000,
+    "segwit": false,
 
-  "fork_id": "0x40",
+    "fork_id": "0x40",
 
-  "mm2": 1,
-  "sign_message_prefix": "Bitcoin Signed Message:\n",
-  "required_confirmations": 6,
-  "avg_blocktime": 300,
+    "mm2": 1,
+    "sign_message_prefix": "Bitcoin Signed Message:\n",
+    "required_confirmations": 6,
+    "avg_blocktime": 300,
 
-  "protocol": { "type": "UTXO" },
+    "protocol": { "type": "UTXO", "chain_variant": "BTC" },
 
-  "derivation_path": "m/44'/512'/0'/0/0",
+    "derivation_path": "m/44'/512'",
     "links": {
-    "github": "https://github.com/Radiant-Core/Radiant-Core",
-    "homepage": "https://https://radiantblockchain.org/"
+      "github": "https://github.com/Radiant-Core/Radiant-Core",
+      "homepage": "https://https://radiantblockchain.org/"
+    }
   }
-}
 ]

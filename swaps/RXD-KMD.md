@@ -1,0 +1,5 @@
+[taker fee (RXD)](https://explorer2.rxd-radiant.com/tx/ee4426e1c3f85bf274b316ca3cc54efb0518906b7b85d3e5de43815825052d50)  
+[maker payment (KMD)](https://kmdexplorer.gleec.com/tx/411c736c1b16b376703e2551b6c274d6c8972f8d9ff6c1ff4a87f62b98cf74d6)  
+[taker payment (RXD)](https://explorer2.rxd-radiant.com/tx/5fa14f94d70024a46d092cc538ccb40c609eb91aa84aa958030feae4894199e6)  
+[taker payment spent (RXD)](https://explorer2.rxd-radiant.com/tx/fa5703ddef856298b3ef50d6e511b394ae0589f95b5462c9c7e3eaa2645d1b41)  
+[maker payment spent (KMD)](https://kmdexplorer.gleec.com/tx/1963632a3739960c416a7410cd6dfe189ef2986e8eb83a3bba19339bd252ca91)  
